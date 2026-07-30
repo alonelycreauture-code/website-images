@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="255px" height="226px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-689.84807,-460.911157)">
+        <g transform="matrix(1,0,0,1,621.593173,117.614446)">
+            <g transform="matrix(400,0,0,400,199.895522,518.023274)">
+            </g>
+            <text x="63.372px" y="518.023px" style="font-family:'HarlowSolid', 'Harlow Solid Italic', fantasy;font-style:italic;font-stretch:semi-expanded;font-size:400px;fill:url(#_Linear1);">x</text>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(873.255571,0,0,873.255571,90.304847,428.570149)"><stop offset="0" style="stop-color:black;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(77,77,77);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
